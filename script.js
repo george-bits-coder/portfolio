@@ -43,8 +43,8 @@ $(document).ready(function () {
 
   var typed = new Typed(".typing-2", {
     strings: [
-      "a Self-driven &amp; highly dedicated",
-      "an Observant &amp; Innovative",
+      "a Self-driven &amp; highly dedicated Programmer",
+      "an Observant &amp; Innovative coder",
       "a Problem-solver &amp; a Creative-thinker",
     ],
     typeSpeed: 100,
