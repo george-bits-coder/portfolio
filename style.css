@@ -616,11 +616,11 @@ section .protitle::before {
 }
 .background .background-content .left {
   border: 1px solid black;
-  padding: 10px;
+  padding: 40px;
 }
 .background .background-content .right {
   border: 1px solid black;
-  padding: 10px;
+  padding: 40px;
 }
 .background .background-content .left .icons {
   margin: 10px 0;
